@@ -1,0 +1,32 @@
+{
+    "Aston": [
+        {
+            "nama": "A101",
+            "tipe": "Deluxe",
+            "harga": 500000,
+            "status": "Tidak Tersedia"
+        },
+        {
+            "nama": "A102",
+            "tipe": "Executive",
+            "harga": 850000,
+            "status": "Tersedia"
+        }
+    ],
+    "Mercure": [
+        {
+            "nama": "M201",
+            "tipe": "Superior",
+            "harga": 600000,
+            "status": "Tersedia"
+        }
+    ],
+    "Harris": [
+        {
+            "nama": "H301",
+            "tipe": "Standard",
+            "harga": 450000,
+            "status": "Tersedia"
+        }
+    ]
+}

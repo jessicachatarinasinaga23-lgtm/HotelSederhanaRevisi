@@ -1,0 +1,16 @@
+[
+    {
+        "nama": "Budi Santoso",
+        "hotel": "Aston",
+        "kamar": "A101",
+        "tipe": "Deluxe"
+    },
+    {
+        "username": "",
+        "nama": "",
+        "hotel": "Aston",
+        "kamar": "A101",
+        "tipe": "Deluxe",
+        "harga": 500000
+    }
+]

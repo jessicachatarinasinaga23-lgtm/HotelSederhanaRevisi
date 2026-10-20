@@ -1,0 +1,9 @@
+{
+    "admin": {
+        "Admin1": "iniadmin"
+    },
+    "user": {
+        "user": "user",
+        "": ""
+    }
+}
